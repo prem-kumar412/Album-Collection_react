@@ -14,11 +14,13 @@ Album-Collection is a React-based web application that allows users to browse an
 
 ```
 git clone https://github.com/prem-kumar412/Album-Collection_react.git
+```
 
 2. Navigate to the project directory:
 
 ```
 cd Album-Collection
+```
 
 3. Install the dependencies:
 
